@@ -33,7 +33,7 @@ Generating Insights
 ### 2. 📈 Batting and Bowling Statistics
 
 <p align="center">
-  <img src="https://github.com/AyushSrivastava987/IPL-Dashboard/blob/main/IPL%20Images/Batting%20and%20Bowling%20Stats.png" alt="KPI Banner" height="200" width="800" />
+  <img src="https://github.com/AyushSrivastava987/IPL-Dashboard/blob/main/IPL%20Images/Batting%20and%20Bowling%20Stats.png" alt="KPI Banner" height="150" width="800" />
 </p>
 
 
