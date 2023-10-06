@@ -33,7 +33,7 @@ Generating Insights
 ### 2. 📈 Batting and Bowling Statistics
 
 <p align="center">
-  <img src="https://github.com/AyushSrivastava987/IPL-Dashboard/blob/main/IPL%20Images/Batting%20and%20Bowling%20Stats.png" alt="KPI Banner" width="1000" />
+  <img src="https://github.com/AyushSrivastava987/IPL-Dashboard/blob/main/IPL%20Images/Batting%20and%20Bowling%20Stats.png" alt="KPI Banner" width="800" />
 </p>
 
 
@@ -45,7 +45,7 @@ Generating Insights
 ### 3. 📊 Performance
 
 <p align="center">
-  <img src="https://github.com/AyushSrivastava987/IPL-Dashboard/blob/main/IPL%20Images/Matches%20win%20on%20toss%20decision.png" alt="KPI Banner" width="1000" />
+  <img src="https://github.com/AyushSrivastava987/IPL-Dashboard/blob/main/IPL%20Images/Matches%20win%20on%20toss%20decision.png" alt="KPI Banner" width="500" />
 </p>
 
 
@@ -54,7 +54,7 @@ Winning percentage based on the toss decision.
 ### 4. 🌎 Venue
 
 <p align="center">
-  <img src="https://github.com/AyushSrivastava987/IPL-Dashboard/blob/main/IPL%20Images/Matches%20win%20by%20venue.png" alt="KPI Banner" width="1000" />
+  <img src="https://github.com/AyushSrivastava987/IPL-Dashboard/blob/main/IPL%20Images/Matches%20win%20by%20venue.png" alt="KPI Banner" width="500" />
 </p>
 
 Matches win by Venue.
@@ -62,7 +62,7 @@ Matches win by Venue.
 ### 5. 🗺️ Total Wins
 
 <p align="center">
-  <img src="https://github.com/AyushSrivastava987/IPL-Dashboard/blob/main/IPL%20Images/Total%20win%20by%20team%20by%20season.png" alt="KPI Banner" width="1000" />
+  <img src="https://github.com/AyushSrivastava987/IPL-Dashboard/blob/main/IPL%20Images/Total%20win%20by%20team%20by%20season.png" alt="KPI Banner" width="500" />
 </p>
 
 Illuminate the total wins by team in a season.
@@ -70,7 +70,7 @@ Illuminate the total wins by team in a season.
 ### 6. 🏆 Matches Won
 
 <p align="center">
-  <img src="https://github.com/AyushSrivastava987/IPL-Dashboard/blob/main/IPL%20Images/Match%20win%20by%20result%20type.png" alt="KPI Banner" width="1000" />
+  <img src="https://github.com/AyushSrivastava987/IPL-Dashboard/blob/main/IPL%20Images/Match%20win%20by%20result%20type.png" alt="KPI Banner" width="500" />
 </p>
 
 Matches won based on the result type.
